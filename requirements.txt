@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+tensorflow
+xgboost
+opencv-python
+pytesseract
+fpdf
+PyMuPDF
+pandas
+numpy
+google-generativeai
