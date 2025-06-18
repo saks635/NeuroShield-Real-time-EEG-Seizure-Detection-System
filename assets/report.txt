@@ -1,0 +1,10 @@
+Epileptic Seizure Detection Report
+Date: 2025-06-18 16:58:28
+Prediction: SEIZURE
+Model Confidence: 0.91
+Precautionary Measures:
+Okay, I understand. Living with seizures can feel overwhelming, but knowing what precautions to
+take can make a big difference in managing them and staying safe. I'm here to help you understand
+those precautions clearly and simply.
+Here's a breakdown of some important precautions a seizure-prone person should consider:
+**Understanding Your Triggers (if possible):**
