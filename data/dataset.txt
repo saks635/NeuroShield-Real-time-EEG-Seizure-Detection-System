@@ -1,1 +1,8 @@
+eeg.csv
+
+🧠 Dataset Info Recap
+•	File: eeg.csv
+•	Rows: 13,500
+•	Columns: 179 (178 signal values + 1 label [0: non-seizure, 1: seizure])
+•	Notes: Balanced, normalized, clean, includes GAN-generated data
 
